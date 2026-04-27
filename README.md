@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohanad Adel
+# Hi , I'm Mohanad Adel
 
 ### Software Engineer | Backend Developer (.NET Core & Cloud)
 
@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohanad-adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohanad Adel" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Mohanad_Adel10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mohanad_Adel10" height="30" width="40" /></a>
-<a href="https://leetcode.com/Mohanad_3del" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohanad_3del" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohanad-adel" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohanad Adel" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/Mohanad_Adel10" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codeforces" alt="Mohanad_Adel10" height="40" width="40" /></a>
+<a href="https://leetcode.com/Mohanad_3del" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="Mohanad_3del" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
