@@ -15,11 +15,25 @@
 - ⚡️ Fun fact: I think I am funny
 
 ### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/mohanad-adel" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://leetcode.com/Mohanad_3del" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
-<a href="https://codeforces.com/profile/Mohanad_Adel10" target="blank"><img src="https://skillicons.dev/icons?i=codeforces" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/mohanad-adel">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/Mohanad_3del">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/Mohanad_Adel10">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🛠 Languages and Tools:
 <p align="left"> 
